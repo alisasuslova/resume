@@ -20,13 +20,13 @@
 
 * [Диплом о профессиональной переподготовке](https://github.com/alisasuslova/resume/tree/main/diplom_1)
 
-* [Основы Java](https://netology.ru/sharing/4b9e6757fdbf1538cce8f7be358e74e3?utm_source=social&utm_campaign=achievements)
+* [Основы Java](https://github.com/alisasuslova/resume/blob/main/certificates/%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D1%8B%20Java.pdf)
 
-* [Основы ООП](https://netology.ru/sharing/25d3bd0098b6c9fa910740866117f710?utm_source=social&utm_campaign=achievements)
+* [Основы ООП](https://github.com/alisasuslova/resume/blob/main/certificates/%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D1%8B%20%D0%9E%D0%9E%D0%9F.pdf)
 
-* [Система Git](https://netology.ru/sharing/b722737a8e9ed3da1d3a6fc689d3676b?utm_source=social&utm_campaign=achievements)
+* [Система Git](https://github.com/alisasuslova/resume/blob/main/certificates/Git.pdf)
 
-* [SQL](https://netology.ru/sharing/25628655c32f4fd6dd1c3ef5dd76d34d?utm_source=social&utm_campaign=certificate_lms)
+* [SQL](https://github.com/alisasuslova/resume/blob/main/certificates/SQL.pdf)
 
 ### Диплом об окончании высшего учебного заведения МГГУ
 
