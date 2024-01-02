@@ -28,9 +28,9 @@
 
 * [SQL](https://netology.ru/sharing/25628655c32f4fd6dd1c3ef5dd76d34d?utm_source=social&utm_campaign=certificate_lms)
 
-### [Диплом об окончании высшего учебного заведения МГГУ](https://github.com/alisasuslova/resume/tree/main/diplom)
+### Диплом об окончании высшего учебного заведения МГГУ
 
-* Специальность "Автоматизированные системы обработки информации и управления"
+* [Специальность "Автоматизированные системы обработки информации и управления"](https://github.com/alisasuslova/resume/tree/main/diplom)
 
 #### В настоящее время продолжаю обучение на курсе "Мобильный разработчик Android". 
 Изучаю:
