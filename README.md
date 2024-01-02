@@ -4,7 +4,7 @@ Java-разработчик
 ### Вот что я умею:
 * Java. Репозиторий с дипломной работой ["Поисковая система"](https://github.com/alisasuslova/Diplom_)
 
-* Java. Репозиторий с курсовой работой ["Конвертер в текстовую графику"](https://github.com/alisasuslova/javabasicsdiploma/tree/main)
+* Java. Репозиторий с курсовой работой ["Конвертер в текстовую графику"](https://github.com/alisasuslova/Converter-to-text-graphics)
 
 * Java. Репозиторий с курсовой работой ["Менеджер задач"](https://github.com/alisasuslova/pcs/tree/master)
 
