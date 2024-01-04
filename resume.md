@@ -1,7 +1,7 @@
 # Суслова Алиса Владиславовна
 ## Java-разработчик (junior)
 
-![Alt text](https://github.com/alisasuslova/Diplom_1/blob/master/%D1%80%D0%B5%D0%B7.JPG)
+![Alt text](https://github.com/alisasuslova/resume/blob/main/%D0%A4%D0%BE%D1%82%D0%BE-250.png?raw=true)
 
 
 ## Личная информация
