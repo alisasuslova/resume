@@ -1,5 +1,5 @@
 ## Суслова Алиса Владиславовна
-### Java-разработчик([резюме](https://github.com/alisasuslova/resume/blob/main/resume.md)
+### Java-разработчик([резюме](https://github.com/alisasuslova/resume/blob/main/resume.md))
 
 ### Вот что я умею:
 * Java. Репозиторий с дипломной работой 
