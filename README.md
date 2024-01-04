@@ -3,7 +3,7 @@
 
 ### Вот что я умею:
 * Java. Репозиторий с дипломной работой 
-["Поисковая система"](https://github.com/alisasuslova/Diplom_)
+["Поисковая система"](https://github.com/alisasuslova/Diplom_1)
 
 * Java. Репозиторий с курсовой работой ["Конвертер в текстовую графику"](https://github.com/alisasuslova/Converter-to-text-graphics)
 
