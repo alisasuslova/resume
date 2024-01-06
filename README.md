@@ -35,7 +35,7 @@
 #### В настоящее время продолжаю обучение в Нетологии на курсе "Мобильный разработчик Android". 
 Изучаю:
 
-* Kotlin
+* [Kotlin](https://github.com/alisasuslova/resume/blob/main/certificates/%D0%9A%D0%BE%D1%82%D0%BB%D0%B8%D0%BD.pdf)
 * Android Studio
 
 
