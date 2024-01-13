@@ -15,6 +15,13 @@
 
 * Java. Задание в рамках учебного курса ["Протокол HTTP. Вызов удаленных серверов"](https://github.com/alisasuslova/HTTP_homework/tree/master)
 
+### Практические тестовые задания:
+
+* [Преобразование массива строк(реализация на java)](https://github.com/alisasuslova/TestTaskJava)
+  
+* [Преобразование массива строк(реализация на Kotlin)](https://github.com/alisasuslova/TestTaskKotlin)
+  
+* [Преобразование массива строк), посик совпадений в столбцах, формирование групп и подсчет в них количества элементов(реализация а java)](https://github.com/alisasuslova/NextTask)
 
 ### Сертификаты Нетологии:
 
